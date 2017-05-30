@@ -1,0 +1,14 @@
+Package: ws.hbang.bugger
+Name: Bugger
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<< 10.3)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Access iOS’s built in UI debugger
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Development
+Depiction: https://cydia.hbang.ws/package/ws.hbang.bugger/
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios10
+dev: hbang
